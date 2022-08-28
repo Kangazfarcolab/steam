@@ -1,0 +1,33 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": false,
+        },
+        "nvidia": {
+            "devices": [
+                {
+                    "desktopLag": 100.0,
+                    "enabled": true,
+                    "id": 0,
+                    "intensity": 100.0,
+                    "name": "N"
+                }
+            ]
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "turtlecoin",
+            "disableAutoAlgoSelect": false,
+            "host": "sg.turtlecoin.herominers.com",
+            "niceHash": false,
+            "password": "x",
+            "port": 1160,
+            "priority": 0,
+            "rigID": "",
+            "ssl": false,
+            "username": "TRTLuweEwEqPstNHhkvxX6UPy4Nw9WAN8gFmeyDHE1Mr54WVPgwUq1L9DqHKCjmcKNHvoNfrh7w7VHVBj1efakotfkt2jeroLmy+20a3e7884e3ee1698b82d70c07ea066739648a7f3c5cf28d3addc85940eb4643"
+        }
+    ]
+}
